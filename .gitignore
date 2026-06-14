@@ -1,0 +1,15 @@
+# Dataset (download from Kaggle — see README)
+archive/
+*.zip
+
+# Trained models
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
